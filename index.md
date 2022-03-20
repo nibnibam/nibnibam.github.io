@@ -5,7 +5,7 @@
 
 <img src="./img/hnu.png" alt="img" style="zoom: 33%;" />
 
-- Jul. 2018 - Sep. 2022, 河南师范大学艺术学位
+- Jul. 2018 - Sep. 2022, 河南师范大学艺术学士学位
 
 ## 剧本
 
