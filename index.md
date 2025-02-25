@@ -85,6 +85,7 @@
 )
 
 ## 图片作品
+![安庆](./henuPicWork/IMG_3674.JPG)
 
 ![IMG_20191219_195605](./hnuPicWork/IMG_20191219_195605.jpg)
 
