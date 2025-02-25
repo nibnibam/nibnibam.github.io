@@ -6,6 +6,16 @@
 <img src="./img/hnu.png" alt="img" style="zoom: 33%;" />
 
 - Jul. 2018 - Sep. 2022, 河南师范大学艺术学学士学位
+
+<img src="./img/henu.png" alt="img" style="zoom: 33%;" />
+
+- Jul. 2022 - Sep. 2025, 河南大学艺术学硕士学位
+
+
+
+## 已发表论文
+[2022-2023年越南电影扫描](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDfpGm8T8pnaXSd8R-rt4C4b-NARZgzI0x0fbMNRelJh7cIyGCPBHORBsF2DMo-Kkz2M71PC1Jw_9N5PaRygd6c6Vtarq-bAhwCH1deAQeocm4NsM6CI6MqdYhKyCzY3iqCnhp8Hs_mU4jwhW2nLRmfoqw2ZmxqSyH_25P6V53NJ0rbQcOAU7RST&uniplatform=NZKPT&language=CHS)
+
 ## 论文
 
  [《本草中华》：论纪录片的选题](paper\《本草中华》：论纪录片的选题.pdf) 
@@ -19,6 +29,7 @@
  [新世纪台湾电影产业——台湾动画电影的创作](paper\新世纪台湾电影产业——台湾动画电影的创作.pdf) 
 
  [重构青春《过春天》：青春类型电影的突破与创新](paper\重构青春《过春天》：青春类型电影的突破与创新.pdf) 
+
 
 ## 剧本
 
