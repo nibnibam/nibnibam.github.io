@@ -86,63 +86,63 @@
 
 ## 图片作品
 
-![IMG_20191219_195605](./picwork/IMG_20191219_195605.jpg)
+![IMG_20191219_195605](./hnuPicWork/IMG_20191219_195605.jpg)
 
-![操场](./picwork/操场.jpg)
+![操场](./hnuPicWork/操场.jpg)
 
-![东综   马21](./picwork/东综   马21.jpg)
+![东综   马21](./hnuPicWork/东综   马21.jpg)
 
-![海报](./picwork/海报.jpg)
+![海报](./hnuPicWork/海报.jpg)
 
-![寒露](./picwork/寒露.jpg)
+![寒露](./hnuPicWork/寒露.jpg)
 
-![寒露2](./picwork/寒露2.jpg)
+![寒露2](./hnuPicWork/寒露2.jpg)
 
-![寒露3](./picwork/寒露3.jpg)
+![寒露3](./hnuPicWork/寒露3.jpg)
 
-![节约海报](./picwork/节约海报.jpg)
+![节约海报](./hnuPicWork/节约海报.jpg)
 
-![连接桥1](./picwork/连接桥1.jpg)
+![连接桥1](./hnuPicWork/连接桥1.jpg)
 
-![青年大学习](./picwork/青年大学习.jpg)
+![青年大学习](./hnuPicWork/青年大学习.jpg)
 
-![霜降](./picwork/霜降.jpg)
+![霜降](./hnuPicWork/霜降.jpg)
 
-![通知书背面](./picwork/通知书背面.jpg)
+![通知书背面](./hnuPicWork/通知书背面.jpg)
 
-![通知书设计](./picwork/通知书设计.jpg)
+![通知书设计](./hnuPicWork/通知书设计.jpg)
 
-![图书馆](./picwork/图书馆.jpg)
+![图书馆](./hnuPicWork/图书馆.jpg)
 
-![五四](./picwork/五四.jpg)
+![五四](./hnuPicWork/五四.jpg)
 
-![细节1](./picwork/细节1.jpg)
+![细节1](./hnuPicWork/细节1.jpg)
 
-![细节2](./picwork/细节2.jpg)
+![细节2](./hnuPicWork/细节2.jpg)
 
-![细节3](./picwork/细节3.jpg)
+![细节3](./hnuPicWork/细节3.jpg)
 
-![细节4](./picwork/细节4.jpg)
+![细节4](./hnuPicWork/细节4.jpg)
 
-![细节11](./picwork/细节11.jpg)
+![细节11](./hnuPicWork/细节11.jpg)
 
-![校园歌手大赛海报提交](./picwork/校园歌手大赛海报提交.jpg)
+![校园歌手大赛海报提交](./hnuPicWork/校园歌手大赛海报提交.jpg)
 
-![中心花园](./picwork/中心花园.jpg)
+![中心花园](./hnuPicWork/中心花园.jpg)
 
-![最终](./picwork/最终.jpg)
+![最终](./hnuPicWork/最终.jpg)
 
-![最终2](./picwork/最终2.jpg)
+![最终2](./hnuPicWork/最终2.jpg)
 
-![2](./picwork/2.jpg)
+![2](./hnuPicWork/2.jpg)
 
-![3.](./picwork/3..jpg)
+![3.](./hnuPicWork/3..jpg)
 
-![IMG_20191219_192816](./picwork/IMG_20191219_192816.jpg)
+![IMG_20191219_192816](./hnuPicWork/IMG_20191219_192816.jpg)
 
-![IMG_20191219_193032](./picwork/IMG_20191219_193032.jpg)
+![IMG_20191219_193032](./hnuPicWork/IMG_20191219_193032.jpg)
 
-![IMG_20191219_193519](./picwork/IMG_20191219_193519.jpg)
+![IMG_20191219_193519](./hnuPicWork/IMG_20191219_193519.jpg)
 
-![IMG_20191219_195510](./picwork/IMG_20191219_195510.jpg)
+![IMG_20191219_195510](./hnuPicWork/IMG_20191219_195510.jpg)
 
