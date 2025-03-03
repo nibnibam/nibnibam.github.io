@@ -17,8 +17,17 @@
 [2022-2023年越南电影扫描](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDfpGm8T8pnaXSd8R-rt4C4b-NARZgzI0x0fbMNRelJh7cIyGCPBHORBsF2DMo-Kkz2M71PC1Jw_9N5PaRygd6c6Vtarq-bAhwCH1deAQeocm4NsM6CI6MqdYhKyCzY3iqCnhp8Hs_mU4jwhW2nLRmfoqw2ZmxqSyH_25P6V53NJ0rbQcOAU7RST&uniplatform=NZKPT&language=CHS)
 
 ## 论文
+ 
  [《封神：朝歌风云》票房“逆袭”现象反观电影生产](./henupaper/《封神：朝歌风云》票房“逆袭”现象反观电影生产.pdf)
 
+[购物节网红直播带货高成交额现象研究](./henupaper/购物节网红直播带货高成交额现象研究.pdf)
+
+[藏地横亘在文本与作者之间](./henupaper/藏地横亘在文本与作者之间.pdf)
+
+[规训理论下《阳光灿烂的日子》中的言语和身体](./henupaper/规训理论下看《阳光灿烂的日子》中的言语和身体.pdf)
+
+[生态叙事与家园想象:家在水草丰茂的地方的诗意书写](./henupaper/生态叙事与家园想象：家在水草丰茂的地方的诗意书写.pdf)
+ 
  [本草中华：现代语境下个体乡土经验的归置](./henupaper/本草中华：现代语境下个体乡土经验的归置.pdf) 
 
  [《海上钢琴师》：电影叙事学分析](paper\《海上钢琴师》：电影叙事学分析.pdf) 
@@ -31,11 +40,14 @@
 
  [重构青春《过春天》：青春类型电影的突破与创新](paper\重构青春《过春天》：青春类型电影的突破与创新.pdf) 
 
-## 文案策划
+## 剧本与文案
 
+[文案《大数据与电影产业：封神营销分析》](./henuplayingcopy/大数据与电影产业：封神营销分析.pdf)
 
-## 剧本
+[文案《陈庄村解说词文案》](./henuplayingcopy/陈庄村解说词文案.pdf)
 
+[策划案《短视频全程策划案＋复盘》](./henuplayingcopy/短视频全程策划案＋复盘.pdf)
+ 
  [剧本《三个病人》](./script/剧本《三个病人》.pdf) 
 
  [剧本《再相见》](./script/剧本《再相见》.pdf) 
