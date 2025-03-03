@@ -17,6 +17,7 @@
 [2022-2023年越南电影扫描](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDfpGm8T8pnaXSd8R-rt4C4b-NARZgzI0x0fbMNRelJh7cIyGCPBHORBsF2DMo-Kkz2M71PC1Jw_9N5PaRygd6c6Vtarq-bAhwCH1deAQeocm4NsM6CI6MqdYhKyCzY3iqCnhp8Hs_mU4jwhW2nLRmfoqw2ZmxqSyH_25P6V53NJ0rbQcOAU7RST&uniplatform=NZKPT&language=CHS)
 
 ## 论文
+ [《封神：朝歌风云》票房“逆袭”现象反观电影生产](./henupaper/《封神：朝歌风云》票房“逆袭”现象反观电影生产.pdf)
 
  [《本草中华》：论纪录片的选题](paper\《本草中华》：论纪录片的选题.pdf) 
 
@@ -83,6 +84,7 @@
 
 [《秋》、《猫》、《花样年华》、《大鱼海棠》提取码:e144](https://pan.baidu.com/s/1Y67y8Bi080UiSQL-MymyGA?pwd=e144 
 )
+
 
 ## 图片作品
 ![安庆](./henuPicWork/IMG_3674.JPG)
