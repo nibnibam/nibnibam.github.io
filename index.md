@@ -34,11 +34,19 @@
 
  [电影《妖猫传》：商业电影的探索与突破](paper/《妖猫传》：商业电影的探索与突破.pdf) 
 
+<<<<<<< HEAD
+ [电影《日光下的显露与掩埋——<日光之下>的互动》](./paper/riguangzhixai%20.pdf)   
+=======
  [电影 日光下的显露与掩埋——《日光之下》的互动](paper/日光下的显露与掩埋日光之下的互动.pdf) 
+>>>>>>> 076de29147197f48d0253bfcb39b7f0dd2a6e763
 
  [产业《新世纪台湾电影产业——台湾动画电影的创作](paper/新世纪台湾电影产业——台湾动画电影的创作.pdf) 
 
+<<<<<<< HEAD
+ [电影《重构青春<过春天>：青春类型电影的突破与创新》](./paper/guochuntian%20.pdf)   
+=======
  [电影 重构青春《过春天》青春类型电影的突破与创新](paper/重构青春过春天青春类型电影的突破与创新.pdf) 
+>>>>>>> 076de29147197f48d0253bfcb39b7f0dd2a6e763
 
 ## 剧本与文案
 
@@ -101,8 +109,80 @@
 
 
 ## 图片作品
+
+![安庆](./henuPicWork/city/anqing/IMG_7343.JPG)
+
+![安庆](./henuPicWork/city/anqing/IMG_7345.JPG)
+
+![安庆](./henuPicWork/city/anqing/IMG_7349.JPG)
+
+![安庆](./henuPicWork/city/anqing/IMG_7351.JPG)
+
 ![安庆](./henuPicWork/IMG_3674.JPG)
 
+![安庆](./henuPicWork/city/anqing/IMG_3676.JPG)
+
+![安庆](./henuPicWork/city/anqing/IMG_7356.JPG)
+
+![安庆](./henuPicWork/city/anqing/IMG_7354.JPG)
+
+![anqing](./henuPicWork/city/anqing/IMG_7327.JPG)
+
+![anqing](./henuPicWork/city/anqing/IMG_7329.JPG)
+
+![anqing](./henuPicWork/city/anqing/IMG_7320.JPG)
+
+![隋唐](./henuPicWork/city/suitang/IMG_7291.JPG)
+
+![隋唐](./henuPicWork/city/suitang/IMG_7294.JPG)
+
+![隋唐](./henuPicWork/city/suitang/IMG_7298.JPG)
+
+![隋唐](./henuPicWork/city/suitang/IMG_7296.JPG)
+
+![隋唐](./henuPicWork/city/suitang/IMG_7292.JPG)
+
+![wuhan](./henuPicWork/city/wuhan/IMG_1268.JPG)
+
+![wuhan](./henuPicWork/city/wuhan/IMG_7278.JPG)
+
+![wuhan](./henuPicWork/city/wuhan/IMG_7279.JPG)
+
+![wuhan](./henuPicWork/city/wuhan/IMG_7281.JPG)
+
+![wuhan](./henuPicWork/city/wuhan/IMG_7283.JPG)
+
+![wuhan](./henuPicWork/city/wuhan/IMG_7282.JPG)
+
+## 人像
+
+![shanshan](./henuPicWork/person/1.png)
+
+![dian](./henuPicWork/person/IMG_7302.JPG)
+
+![shan](./henuPicWork/person/IMG_0467.jpg)
+
+![dian](./henuPicWork/person/IMG_0531.jpg)
+
+![dian](./henuPicWork/person/IMG_0547.jpg)
+
+![dian](./henuPicWork/person/IMG_0571%20(2).JPG)
+
+![hang](./henuPicWork/person/IMG_0425.jpg)
+
+![hang](./henuPicWork/person/IMG_0432.jpg)
+
+![shan](./henuPicWork/person/IMG_7383.JPG)
+
+![shan](./henuPicWork/person/IMG_7380.JPG)
+
+![shan](./henuPicWork/person/IMG_7379.JPG)
+
+![shan](./henuPicWork/person/IMG_7382.JPG)
+
+![shan](./henuPicWork/person/IMG_7385.JPG)
+
+## 创意图片
 
 ![操场](./hnuPicWork/操场.jpg)
 
@@ -132,10 +212,6 @@
 
 ![五四](./hnuPicWork/五四.jpg)
 
-![细节1](./hnuPicWork/细节1.jpg)
-
-![细节2](./hnuPicWork/细节2.jpg)
-
 ![细节3](./hnuPicWork/细节3.jpg)
 
 ![细节4](./hnuPicWork/细节4.jpg)
@@ -145,20 +221,4 @@
 ![校园歌手大赛海报提交](./hnuPicWork/校园歌手大赛海报提交.jpg)
 
 ![中心花园](./hnuPicWork/中心花园.jpg)
-
-![最终](./hnuPicWork/最终.jpg)
-
-![最终2](./hnuPicWork/最终2.jpg)
-
-![2](./hnuPicWork/2.jpg)
-
-![3.](./hnuPicWork/3..jpg)
-
-![IMG_20191219_192816](./hnuPicWork/IMG_20191219_192816.jpg)
-
-![IMG_20191219_193032](./hnuPicWork/IMG_20191219_193032.jpg)
-
-![IMG_20191219_193519](./hnuPicWork/IMG_20191219_193519.jpg)
-
-![IMG_20191219_195510](./hnuPicWork/IMG_20191219_195510.jpg)
 
