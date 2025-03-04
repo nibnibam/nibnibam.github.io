@@ -102,6 +102,12 @@
 
 ## 图片作品
 
+![anqing](./henuPicWork/city/anqing/IMG_7320.JPG)
+
+![安庆](./henuPicWork/IMG_3674.JPG)
+
+![安庆](./henuPicWork/city/anqing/IMG_3676.JPG)
+
 ![安庆](./henuPicWork/city/anqing/IMG_7343.JPG)
 
 ![安庆](./henuPicWork/city/anqing/IMG_7345.JPG)
@@ -110,10 +116,6 @@
 
 ![安庆](./henuPicWork/city/anqing/IMG_7351.JPG)
 
-![安庆](./henuPicWork/IMG_3674.JPG)
-
-![安庆](./henuPicWork/city/anqing/IMG_3676.JPG)
-
 ![安庆](./henuPicWork/city/anqing/IMG_7356.JPG)
 
 ![安庆](./henuPicWork/city/anqing/IMG_7354.JPG)
@@ -121,8 +123,6 @@
 ![anqing](./henuPicWork/city/anqing/IMG_7327.JPG)
 
 ![anqing](./henuPicWork/city/anqing/IMG_7329.JPG)
-
-![anqing](./henuPicWork/city/anqing/IMG_7320.JPG)
 
 ![隋唐](./henuPicWork/city/suitang/IMG_7291.JPG)
 
@@ -146,13 +146,15 @@
 
 ![wuhan](./henuPicWork/city/wuhan/IMG_7282.JPG)
 
-## 人像
+## 人像作品
 
 ![shanshan](./henuPicWork/person/1.png)
 
-![dian](./henuPicWork/person/IMG_7302.JPG)
+![hang](./henuPicWork/person/IMG_0432.jpg)
 
-![shan](./henuPicWork/person/IMG_0467.jpg)
+![hang](./henuPicWork/person/IMG_0425.jpg)
+
+![dian](./henuPicWork/person/IMG_7302.JPG)
 
 ![dian](./henuPicWork/person/IMG_0531.jpg)
 
@@ -160,15 +162,11 @@
 
 ![dian](./henuPicWork/person/IMG_0571%20(2).JPG)
 
-![hang](./henuPicWork/person/IMG_0425.jpg)
-
-![hang](./henuPicWork/person/IMG_0432.jpg)
+![shan](./henuPicWork/person/IMG_7379.JPG)
 
 ![shan](./henuPicWork/person/IMG_7383.JPG)
 
 ![shan](./henuPicWork/person/IMG_7380.JPG)
-
-![shan](./henuPicWork/person/IMG_7379.JPG)
 
 ![shan](./henuPicWork/person/IMG_7382.JPG)
 
