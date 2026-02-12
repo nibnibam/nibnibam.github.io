@@ -227,7 +227,7 @@ layout: default
 <a href="https://github.com/nibnibam/asserts/blob/main/hnuPicWork/海报.jpg" target="_blank" title="点击图片进行原图预览">
   <img src="https://raw.githubusercontent.com/nibnibam/nibnibam.github.io/main/low_quality/hnuPicWork/海报_low.jpg" alt="海报" loading="lazy" style="max-width:400px; border:1px solid #ddd; border-radius:4px;">
 </a>
-
+<p style="font-size: 0.9em; color: #666; margin: 8px 0 0;">点击图片进行原图预览</p>
 <a href="https://github.com/nibnibam/asserts/blob/main/hnuPicWork/寒露.jpg" target="_blank" title="点击图片进行原图预览">
   <img src="https://raw.githubusercontent.com/nibnibam/nibnibam.github.io/main/low_quality/hnuPicWork/寒露_low.jpg" alt="寒露" loading="lazy" style="max-width:400px; border:1px solid #ddd; border-radius:4px;">
 </a>
