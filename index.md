@@ -12,7 +12,6 @@
 - Jul. 2022 - Sep. 2025, 河南大学艺术学硕士学位
 
 
-
 ## 已发表论文
 [2022-2023年越南电影扫描](https://kns.cnki.net/kcms2/article/abstract?v=nKttgsEmyDfpGm8T8pnaXSd8R-rt4C4b-NARZgzI0x0fbMNRelJh7cIyGCPBHORBsF2DMo-Kkz2M71PC1Jw_9N5PaRygd6c6Vtarq-bAhwCH1deAQeocm4NsM6CI6MqdYhKyCzY3iqCnhp8Hs_mU4jwhW2nLRmfoqw2ZmxqSyH_25P6V53NJ0rbQcOAU7RST&uniplatform=NZKPT&language=CHS)
 
