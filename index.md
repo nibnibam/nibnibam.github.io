@@ -1,3 +1,9 @@
+---
+title: Home
+layout: default
+---
+# Welcome to my site
+
 # 马彬彬
 
 
