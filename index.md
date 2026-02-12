@@ -254,7 +254,8 @@ layout: default
 <p style="font-size: 0.9em; color: #666; margin: 8px 0 0;">点击图片进行原图预览</p>
 <a href="https://github.com/nibnibam/asserts/blob/main/hnuPicWork/霜降.jpg" target="_blank" title="点击图片进行原图预览">
   <img src="https://raw.githubusercontent.com/nibnibam/nibnibam.github.io/main/low_quality/hnuPicWork/霜降_low.jpg" alt="霜降" loading="lazy" style="max-width:400px; border:1px solid #ddd; border-radius:4px;">
-</a><p style="font-size: 0.9em; color: #666; margin: 8px 0 0;">点击图片进行原图预览</p>
+</a>
+<p style="font-size: 0.9em; color: #666; margin: 8px 0 0;">点击图片进行原图预览</p>
 <a href="https://github.com/nibnibam/asserts/blob/main/hnuPicWork/通知书背面.jpg" target="_blank" title="点击图片进行原图预览">
   <img src="https://raw.githubusercontent.com/nibnibam/nibnibam.github.io/main/low_quality/hnuPicWork/通知书背面_low.jpg" alt="通知书背面" loading="lazy" style="max-width:400px; border:1px solid #ddd; border-radius:4px;">
 </a>
