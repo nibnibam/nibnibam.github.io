@@ -8,11 +8,11 @@ layout: default
 
 ## 教育背景
 
-<img src="https://cdn.jsdelivr.net/gh/nibnibam/asserts@main/img/hnu.png" alt="河南师范大学" style="zoom:33%; max-width:300px;" loading="lazy" />
+<img src="./img/hnu.png" alt="河南师范大学" style="zoom:33%; max-width:300px;" loading="lazy" />
 
 - 2018.07 – 2022.09，河南师范大学 艺术学 学士
 
-<img src="https://cdn.jsdelivr.net/gh/nibnibam/asserts@main/img/henu.png" alt="河南大学" style="zoom:33%; max-width:300px;" loading="lazy" />
+<img src="./img/henu.png" alt="河南大学" style="zoom:33%; max-width:300px;" loading="lazy" />
 
 - 2022.07 – 2025.09，河南大学 艺术学 硕士
 
