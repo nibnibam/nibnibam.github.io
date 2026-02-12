@@ -1,4 +1,8 @@
-config
-theme: jekyll-theme-architect
+# 删除或注释掉这一行
+# theme: jekyll-theme-architect
+
+# 加这两行（放在文件合适位置，比如 plugins 下面）
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme  # 这个必须加！用于加载 remote theme
+  - jekyll-feed         # 你原来的插件保留
